@@ -1,0 +1,2 @@
+# EthernetTestForSTM32
+这是一个单纯的测试STM32网络系统能的测试工程
